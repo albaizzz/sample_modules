@@ -1,0 +1,18 @@
+{
+  "name": "@albaizzz/sample_modules",
+  "version": "1.0.0",
+  "description": "sample modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Muhamad Albaijuri <muhamad.albaijuri@gmail.com> (searah.id)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
